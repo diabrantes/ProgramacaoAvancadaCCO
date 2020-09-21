@@ -24,5 +24,5 @@
 
 ### Implementação
 
-Nesta [implementação](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Composite/exemplo) o composite foi utilizado para que fosse desenvolvido um sistema de arquivos contendo pastas e arquivos, onde é possível navegar pela árvore para obter seus itens e tamanhos.
+- [Implementação](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/TemplateMethod/exemplo) através de um exemplo do artigo do site [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/template-method/java/example)
 
