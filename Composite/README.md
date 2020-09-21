@@ -14,7 +14,7 @@
 
 ### Estrutura
 
-- A estrutura de um **Composite** é, de forma geral, a composição de um objeto por várias "partes", ou seja, outros objetos. Este [diagrama](https://sparxsystems.com/images/screenshots/uml2_tutorial/CP01.GIF) representa um componente desenhado utilizando este padrão de projeto.
+- É de forma geral a composição de um objeto por várias partes (basicamente outros objetos).
 
 ### Participantes
 
