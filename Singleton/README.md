@@ -14,6 +14,7 @@
 
 ### Estrutura
 
+- [Estrutura do Singleton](https://prnt.sc/upi3o8)
 
 ### Participantes
 
