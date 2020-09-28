@@ -22,4 +22,4 @@
 
 ### Implementação
 
-- [Implementação](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Singleton/exemplohttps://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Singleton/exemplohttps://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Singleton/exemplo) com base em um exemplo do artigo do site [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/template-method/java/example)
+- [Implementação](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Singleton/exemplo)
