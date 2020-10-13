@@ -1,3 +1,5 @@
+package refactoring_guru.adapter.example.round;
+
 public class RoundHole {
     private double radius;
 
