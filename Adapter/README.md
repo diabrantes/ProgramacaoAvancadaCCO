@@ -4,6 +4,10 @@
 
 - É um padrão estrutural que define uma estrutura que possibilita isolar partes do software quando se possui um código legado que precisará ser integrado com o código de outra aplicação. Para cenários deste tipo, faz-se necessário uma adaptação para que ambas as pontas se comuniquem sem que a estrutura de código de ambas seja danificada.
 
+### Motivação
+
+- Possibilitar a comunicação entre dois sistemas com estruturas diferentes de forma uniforme sem que haja danos em nenhum dos dois lados. 
+
 ### Intenção
 
 - Converter a interface de uma classe para alguma outra interface, possibilitando então que interfaces diferentes (incompatíveis) trabalhem em conjunto. 
