@@ -25,5 +25,5 @@
 
 ### Implementação
 
-Nesta [implementação](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Composite/exemplo) o composite foi utilizado para que fosse desenvolvido um sistema de arquivos contendo pastas e arquivos, onde é possível navegar pela árvore para obter seus itens e tamanhos.
+- [Implementação do adapter](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Adapter/exemplo).
 
