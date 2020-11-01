@@ -1,14 +1,22 @@
-class Main {
+public class Main {
    public static void main(String[] args) {
-      Subject subject = new Subject();
-
-      new HexaObserver(subject);
-      new OctalObserver(subject);
-      new BinaryObserver(subject);
-
-      System.out.println("First state change: 15");	
-      subject.setState(15);
-      System.out.println("Second state change: 10");	
-      subject.setState(10);
+   
+      Originator originator = new Originator();
+      CareTaker careTaker = new CareTaker();
+      
+      originator.setState("State #1");
+      careTaker.add(originator.saveStateToMemento());
+      
+      originator.setState("State #2");
+      originator.setState("State #3");
+      careTaker.add(originator.saveStateToMemento());
+      
+      originator.setState("State #4");
+      System.out.println("Current State: " + originator.getState());		
+      
+      originator.getStateFromMemento(careTaker.get(0));
+      System.out.println("First saved State: " + originator.getState());
+      originator.getStateFromMemento(careTaker.get(1));
+      System.out.println("Second saved State: " + originator.getState());
    }
 }
