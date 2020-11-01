@@ -14,7 +14,7 @@
 
 ### Estrutura
 
-- É de forma geral a composição de um objeto por várias partes (basicamente outros objetos).
+![Estrutura do Memento](https://refactoring.guru/images/patterns/diagrams/memento/structure1.png)
 
 ### Participantes
 
@@ -25,5 +25,5 @@
 
 ### Implementação
 
-Nesta [implementação](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Composite/exemplo) o composite foi utilizado para que fosse desenvolvido um sistema de arquivos contendo pastas e arquivos, onde é possível navegar pela árvore para obter seus itens e tamanhos.
+Exemplo da [implementação](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Memento/exemplo).
 
