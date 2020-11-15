@@ -24,5 +24,4 @@
 
 ### Implementação
 
-Neste [exemplo](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Strategy/exemplo), o State permite que os mesmos controles do tocador de mídia se comportem de maneira diferente, dependendo do estado atual da reprodução.
-
+Neste [exemplo](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Strategy/exemplo), o Strategy é usado para implementar os vários métodos de pagamento em uma aplicação de e-commerce. Depois de selecionar um produto para comprar, o cliente escolhe uma forma de pagamento: Paypal ou cartão de crédito.
