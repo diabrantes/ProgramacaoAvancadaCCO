@@ -24,5 +24,5 @@
 
 ### Implementação
 
-Exemplo da [implementação](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/Memento/exemplo).
+Neste [exemplo](https://github.com/diabrantes/ProgramacaoAvancadaCCO/tree/master/State/exemplo), o State permite que os mesmos controles do tocador de mídia se comportem de maneira diferente, dependendo do estado atual da reprodução.
 
